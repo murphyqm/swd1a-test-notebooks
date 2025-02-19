@@ -1,0 +1,7 @@
+---
+title: "SWD1a Notebooks"
+---
+
+These are the Jupyter notebooks used for [SWD1a: introduction to Python](https://arctraining.github.io/python-novice-inflammation/01-intro.html).
+
+When you launch in Colab, be sure to save them in your Google account, otherwise any edits you make will be lost.

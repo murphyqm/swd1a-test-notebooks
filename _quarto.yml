@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "SWD1a Notebooks"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - 01-intro.ipynb
+
+format:
+  html:
+    theme:
+      light: [cosmo, _brand.yml]
+      dark: [cyborg, _brand.yml]
+    toc: true
+
+dark-mode-label: "Dark Mode" 
+
+execute:
+  error: true
+
+
